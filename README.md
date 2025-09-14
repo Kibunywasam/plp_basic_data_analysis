@@ -1,12 +1,15 @@
 #  Iris Dataset Analysis with Python
 
-> A data analysis project exploring the classic Iris dataset using **pandas**, **matplotlib**, and **seaborn** to load, clean, analyze, and visualize patterns in flower measurements.
+> A data analysis exploring the classic Iris dataset using **pandas**, **matplotlib**, and **seaborn** to load, clean, analyze, and visualize patterns in flower measurements.
 
 ---
 
 ## Assignment Objective
 
-This project demonstrates fundamental data analysis skills by:
+To load and analyze a dataset using the pandas library in Python.
+To create simple plots and charts with the matplotlib library for visualizing the data.
+
+This demonstrates fundamental data analysis skills by:
 - Loading and exploring a real-world dataset (Iris)
 - Performing basic statistical analysis
 - Creating insightful visualizations
