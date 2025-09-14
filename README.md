@@ -29,7 +29,7 @@ No external downloads required — dataset is loaded directly via sklearn.
 
 ---
 
-## ✅ Key Tasks Completed
+##  Key Tasks Completed
 
 | Task | Description |
 |------|-------------|
